@@ -1,4 +1,4 @@
-# Simple AI Rate Prediction with Python
+# Large Language Model in Google Colab
 
 ## Setup
 
